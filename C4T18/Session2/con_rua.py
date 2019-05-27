@@ -1,0 +1,58 @@
+from turtle import *
+# shape("turtle")
+# color("blue")
+# speed(-1)
+# forward(100)
+# left(90)
+# forward(100)
+# left(90)
+# forward(100)
+# left(90)
+# forward(100)
+# left(100)
+# right(60)
+# forward(100)
+# left(90)
+# forward(100)
+# left(90)
+# forward(100)
+# left(90)
+# forward(100)
+# left(120)
+# forward(100)
+# left(90)
+# forward(100)
+# left(90)
+# forward(100)
+# left(90)
+# forward(100)
+# left(90)
+# mainloop()  
+# for i in range(3):
+#   for i in range(4): 
+#     forward(100)
+#     left (90)
+#   right(30)
+# for i in range(4): 
+#     forward(100)
+#     left (90)
+# right(30)
+# for i in range(4): 
+#     forward(100)
+#     left (90)
+# mainloop()
+# speed(-1)
+# for i in range(30):
+#   for i in range(4): 
+#     forward(100)
+#     left (90)
+#   right(10)
+# mainloop()
+speed(100)
+for i in range (5):
+  for i in range (360):
+    forward(1)
+    left (1)
+  right(60)  
+
+mainloop()
